@@ -59,9 +59,4 @@ If you encounter any problems or have questions, feel free to open an issue on t
 
 ## Stay Updated
 
-Follow me on [LinkedIn](www.linkedin.com/in/maxime-jabarian) for updates on this and other projects.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+Follow me on [LinkedIn](https://www.linkedin.com/in/maxime-jabarian) for updates on this and other projects.
