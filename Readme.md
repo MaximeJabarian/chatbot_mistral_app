@@ -1,4 +1,5 @@
 # Conversational AI with Panel and Mistral
+![Alt text for the image](Demo.png)
 
 This project demonstrates how to build an interactive conversational AI web application using Panel and one of the Mistral model. The application allows users to interact with a chatbot that remembers the conversation history and responds accordingly.
 
